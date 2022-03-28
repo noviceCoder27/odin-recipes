@@ -1,0 +1,20 @@
+.tacos {
+    font-family: "Times New Roman", sans-serif;
+}
+
+.heading {
+    text-align: center;
+    font-size: 45px;
+}
+
+.heading.sub,
+.heading.sub2,
+.heading.sub3 {
+    color: red;
+    font-size: 30px;
+}
+
+.taco-img {
+    height:500px; 
+    width: 800px;
+}

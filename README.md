@@ -37,3 +37,43 @@ Unordered Lists
  </ul>
  ```
 > Note: `<li>` is for list items
+
+## CSS
+
+**Linking the CSS to HTML**
+
+```sh
+<link rel = "stylesheet" href = "path/styles.css">
+```
+
+**Class declaration**
+
+```sh
+.classname {
+   property:value
+}
+```
+
+**ID declaration**
+
+#IDname {
+   property:value
+}
+
+**Grouping selectors**
+
+```sh 
+.classname1,
+.classname2,
+#idname {
+   common property
+}
+```
+
+**Combining selectors**
+
+```sh
+.classname1.classname2 {
+   property:value
+}
+```

@@ -1,0 +1,27 @@
+#heading {
+    text-align: center;
+}
+
+.subhead {
+    text-align: center;
+    color: brown;
+}
+
+
+p {
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+}
+
+li {
+    color:darkgoldenrod;
+}
+
+#written {
+    color:black;
+}
+
+.text,
+#written  {
+    color:darkblue;
+}
+

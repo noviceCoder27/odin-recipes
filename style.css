@@ -1,0 +1,15 @@
+* {
+    background-color: aqua;
+    text-align: center;
+}
+
+.listing {
+    font-weight: bold;
+}
+
+.taco,
+.salad,
+.shrimp {
+    text-align: left;
+}
+
